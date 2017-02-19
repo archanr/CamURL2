@@ -1,0 +1,1 @@
+This is a camera URL OCR APP. Made at CodeDay
